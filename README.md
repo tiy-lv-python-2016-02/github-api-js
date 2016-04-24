@@ -1,6 +1,6 @@
-# github-api-profile
+# github-api-js
 
-## Easy Mode
+## Normal Mode
 
 Using the HTML/CSS from the [previous assignment](https://github.com/tiy-lv-python-2016-02/github-remake) add javascript needed to load the following:
 
